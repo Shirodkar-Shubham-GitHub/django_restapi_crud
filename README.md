@@ -1,1 +1,0 @@
-# django_restapi_crud
